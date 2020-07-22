@@ -1,5 +1,7 @@
-### Hi there I'm Yogesh👋
-📫 How to reach me:
+### Hi there I'm Yogesh!👋
+
+[![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=thakur-yogesh)](https://github.com/thakur-yogesh/github-readme-stats)
+
 <!--
 **thakur-yogesh/thakur-yogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
