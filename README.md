@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Yogesh👋
+📫 How to reach me:
 <!--
 **thakur-yogesh/thakur-yogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
