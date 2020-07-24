@@ -2,7 +2,7 @@
 
 My areas of interest are
 
-* :snowflake: Front End web dev
+* :snowflake: Front end web dev
 * :snake: A bit of python
 * :computer: Competitive coding
 * :scroll: JS lover
@@ -17,7 +17,7 @@ My areas of interest are
 
 📫 Other profiles...
 
-* <a href="https://www.hackerrank.com/yt11111999"><img src="https://icon2.cleanpng.com/20180421/rte/kisspng-hackerrank-computer-programming-programmer-logo-in-hacker-logo-5adb399c435878.9361126515243165722759.jpg" height="20" width="20"></img></a>
+* <a href="https://www.hackerrank.com/yt11111999" target="_blank"><img src="https://icon2.cleanpng.com/20180421/rte/kisspng-hackerrank-computer-programming-programmer-logo-in-hacker-logo-5adb399c435878.9361126515243165722759.jpg" height="20" width="20"></img></a>
 
  
 
