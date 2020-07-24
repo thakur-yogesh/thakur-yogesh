@@ -3,7 +3,7 @@
 My areas of interest are
 
 * :snowflake: Front End web dev
-* :snake: A bit of a python
+* :snake: A bit of python
 * :computer: Competitive coding
 * :scroll: JS lover
 
@@ -11,8 +11,13 @@ My areas of interest are
 
 🌱 I’m currently learning ...
 
-* :dart: D3.js
-* :dart: ReactJs
+* :dart: D3.JS
+* :dart: ReactJS
+
+
+📫 Other profiles...
+
+* <a href="https://www.hackerrank.com/yt11111999"><img src="https://icon2.cleanpng.com/20180421/rte/kisspng-hackerrank-computer-programming-programmer-logo-in-hacker-logo-5adb399c435878.9361126515243165722759.jpg" height="20" width="20"></img></a>
 
  
 
