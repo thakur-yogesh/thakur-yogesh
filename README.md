@@ -1,5 +1,7 @@
 ### :octocat: Hi there , I'm Yogesh!👋
 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+
 My areas of interest are
 
 * :snowflake: Front end web dev
@@ -17,7 +19,7 @@ My areas of interest are
 
 📫 Other profiles...
 
-* <a href="https://www.hackerrank.com/yt11111999" target="_blank"><img src="https://icon2.cleanpng.com/20180421/rte/kisspng-hackerrank-computer-programming-programmer-logo-in-hacker-logo-5adb399c435878.9361126515243165722759.jpg" height="20" width="20"></img></a>
+* <a href="https://www.hackerrank.com/yt11111999" target="_blank"><i class="fab fa-hackerrank" style="font-size:20px"></i></a>
 
  
 
