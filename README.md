@@ -1,7 +1,5 @@
 ### :octocat: Hi there , I'm Yogesh!👋
 
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
-
 My areas of interest are
 
 * :snowflake: Front end web dev
@@ -19,9 +17,11 @@ My areas of interest are
 
 📫 Other profiles...
 
-* <a href="https://www.hackerrank.com/yt11111999" target="_blank"><i class="fab fa-hackerrank" style="font-size:20px"></i></a>
+* <a href="https://www.hackerrank.com/yt11111999" target="_blank"><img align="left" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/hackerrank.svg" />
+   </a>
+<a href="https://www.codewars.com/users/shinigami551" target="_blank"><img align="left" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" width="32px" height="32px"></img>
+   </a>
 
- 
 
 <!--
 **thakur-yogesh/thakur-yogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
