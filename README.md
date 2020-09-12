@@ -11,7 +11,7 @@ My areas of interest are
 
 🌱 I’m currently learning ...
 
-* :dart: 
+* :dart: D3.JS
 * :dart: ReactJS
 
 
