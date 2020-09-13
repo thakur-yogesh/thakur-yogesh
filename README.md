@@ -21,6 +21,9 @@ My areas of interest are
    </a>
 <a href="https://www.codewars.com/users/shinigami551" target="_blank"><img align="left" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/codewars_logo_icon_145389.png" width="32px" height="32px"></img>
    </a>
+<a href="https://www.linkedin.com/in/yogesh-singh-thakur-42437bb7/" target="_blank"><img align="left" src="https://www.glyphicons.com/img/tools/linkedin.svg" width="32px" height="32px"></img>
+   </a>
+
 
 
 <!--
