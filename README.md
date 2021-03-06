@@ -5,7 +5,6 @@ My areas of interest are
 * :snowflake: Front end web dev
 * :snake: A bit of python
 * :computer: Competitive coding
-* :scroll: JS is love
 
 [![Yogesh's github stats](https://github-readme-stats.vercel.app/api?username=thakur-yogesh&show_icons=true)](https://github.com/thakur-yogesh/github-readme-stats)
 
